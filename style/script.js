@@ -91,12 +91,11 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Mai Chung', nickname: 'Chung Hà', quote: 'Cứ đi rồi sẽ đến.', img: 'style/img/ThanhVien/MaiChung.jpg', hobbies: 'Đếm tiền', message: 'Hãy sống rực rỡ theo cách riêng của mình nhee!' },
         { name: 'Phan Nhung', nickname: 'Nùnn', quote: 'Yêu đời, yêu người.', img: 'style/img/ThanhVien/PhanNhung.jpg', hobbies: 'Du lịch, Mua sắm', message: 'Thành công trong con đường mik chọn.' },
         { name: 'Hoàng Long', nickname: 'Cò', quote: 'Ăn là chân ái.', img: 'style/img/ThanhVien/HoangLong.jpg', hobbies: 'Câu cá', message: 'Cố lên lứa 2008!' },
-        { name: 'Minh Bảo', nickname: 'Cậu cả', quote: 'Đẳng cấp là mãi mãi.', img: 'style/img/ThanhVien/MinhBao.jpg', hobbies: 'Xem phim, chơi game', message: 'Tạm biệt nhé!' },
-        { name: 'Thanh Thái', nickname: 'Cậu Tý', quote: 'Cứ chill thôi', img: 'style/img/ThanhVien/ThanhThai.jpg', hobbies: 'Chơi game, đi chơi cùng bạn bè', message: 'Nhớ mọi người.' },
-        { name: 'Tuấn Kiệt', nickname: 'Lặc Lặc', quote: 'Vui vẻ không quạo.', img: 'style/img/ThanhVien/TuanKiet.jpg', hobbies: 'Quay phim, Nghe nhạc', message: 'Cháy hết mình nào.' },
-        { name: 'Minh Quân', nickname: 'Anh Pi', quote: 'Trùm trường là đây.', img: 'style/img/ThanhVien/MinhQuan.jpg', hobbies: 'Đọc sách, Chơi game', message: 'Hẹn ngày tái ngộ.' },
-        { name: 'Ngọc Tuấn', nickname: 'Công Tử', quote: 'Nhẹ nhàng và tinh tế.', img: 'style/img/ThanhVien/NgocTuan.jpg', hobbies: 'Du lịch, chụp ảnh', message: 'Chúc mọi điều tốt đẹp.' },
-        { name: 'Hồng Dung', nickname: 'Công Chúa', quote: 'Nỗi buồn cũng đẹp.', img: 'style/img/ThanhVien/HongDung.jpg', hobbies: 'Viết lách, Đi bộ', message: 'Lớp mình là nhất.' }
+        { name: 'Đăng Ý', nickname: 'Cậu cả', quote: 'Đẳng cấp là mãi mãi.', img: 'style/img/ThanhVien/DangY.jpg', hobbies: 'Xem phim, chơi game', message: 'Tạm biệt nhé!' },
+        { name: 'Tuấn Anh', nickname: 'Cậu Tý', quote: 'Cứ chill thôi', img: 'style/img/ThanhVien/TuanAnh.jpg', hobbies: 'Chơi game, đi chơi cùng bạn bè', message: 'Nhớ mọi người.' },
+        { name: 'Ngọc Thắng', nickname: 'Lặc Lặc', quote: 'Vui vẻ không quạo.', img: 'style/img/ThanhVien/NgocThang.jpg', hobbies: 'Quay phim, Nghe nhạc', message: 'Cháy hết mình nào.' },
+        { name: 'Đan Thuỳ', nickname: 'Tiểu Thư', quote: 'Trùm trường là đây.', img: 'style/img/ThanhVien/DanThuy.jpg', hobbies: 'Du lịch, chụp ảnh', message: 'Hẹn ngày tái ngộ.' },
+        { name: 'Quỳnh NHư', nickname: 'Công Chúa', quote: 'Nỗi buồn cũng đẹp.', img: 'style/img/ThanhVien/QuynhNhu.jpg', hobbies: 'Viết lách, Đi bộ', message: 'Lớp mình là nhất.' }
     ];
 
     let currentIndex = 0;
