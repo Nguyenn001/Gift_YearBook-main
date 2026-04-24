@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Tuấn Anh', nickname: 'Cậu Tý', quote: 'Cứ chill thôi', img: 'style/img/ThanhVien/TuanAnh.jpg', hobbies: 'Chơi game, đi chơi cùng bạn bè', message: 'Nhớ mọi người.' },
         { name: 'Ngọc Thắng', nickname: 'Lặc Lặc', quote: 'Vui vẻ không quạo.', img: 'style/img/ThanhVien/NgocThang.jpg', hobbies: 'Quay phim, Nghe nhạc', message: 'Cháy hết mình nào.' },
         { name: 'Đan Thuỳ', nickname: 'Tiểu Thư', quote: 'Trùm trường là đây.', img: 'style/img/ThanhVien/DanThuy.jpg', hobbies: 'Du lịch, chụp ảnh', message: 'Hẹn ngày tái ngộ.' },
-        { name: 'Quỳnh NHư', nickname: 'Công Chúa', quote: 'Nỗi buồn cũng đẹp.', img: 'style/img/ThanhVien/QuynhNhu.jpg', hobbies: 'Viết lách, Đi bộ', message: 'Lớp mình là nhất.' }
+        { name: 'Quỳnh Như', nickname: 'Công Chúa', quote: 'Nỗi buồn cũng đẹp.', img: 'style/img/ThanhVien/QuynhNhu.jpg', hobbies: 'Viết lách, Đi bộ', message: 'Lớp mình là nhất.' }
     ];
 
     let currentIndex = 0;
